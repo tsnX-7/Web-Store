@@ -50,5 +50,6 @@ To install and run the Web-Store project locally, follow these steps:
 6. **Access the application:**
    Open your browser and navigate to `http://localhost:PORT` to start using the Web-Store application.
 
-7. **To preview the deployed application:**
-   visit
+7. **To preview and checkout the deployed application:**
+   [web-store-live](https://web-store-mern-6ast.onrender.com) 
+   *(You may have to wait upto 2-3 minutes for onrender deployment to spin up)*
