@@ -32,7 +32,7 @@ To install and run the Web-Store project locally, follow these steps:
 
    ```env
    MONGO_URI=your_mongodb_connection_string
-   PORT=your_desired_port
+   PORT=your_local_machine_port
    ```
 
 4. **Install both server & client dependencies in one command:**
